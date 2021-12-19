@@ -1,1 +1,1 @@
-# Text-Adventure-Game
+Text adventure game is about Squid Game. Squid Game is about a mysterious and deadly survival game for people in desperate need of the prize money on offer. People who are all in debt are invited to play in a games style challenge tournament to win a huge prize fund and solve their money issues. All they have to do is compete in, and win, a bunch of challenges based on old kid games. However, it soon becomes a harsh game of survival, when “losers” are brutally killed 
